@@ -1,6 +1,6 @@
-mi_lista = [1, 2, 3, "hola", True]
-cantidad = len(mi_lista)
-print(cantidad)
+# mi_lista = [1, 2, 3, "hola", True]
+# cantidad = len(mi_lista)
+# print(cantidad)
 
 
 
@@ -13,3 +13,17 @@ print(cantidad)
 
 #     def saludar(self):
 #         print(f"Hola, me llamo {self.nombre} y tengo {self.edad} años.")
+
+
+
+
+
+# comando = "saludar"
+
+# match comando:
+#     case "saludar":
+#         print("Hola!")
+#     case "despedirse":
+#         print("Adiós!")
+#     case _:
+#         print("Comando no reconocido.")
