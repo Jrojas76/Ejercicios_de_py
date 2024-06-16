@@ -1,0 +1,9 @@
+def restar_15(numero):
+    numero = numero - (numero * 0.15)
+    return numero
+
+numero = float(input("Ingresa un número: "))
+
+resultado = restar_15(numero)
+
+print(f"El resultado después de restar el 15% es: {resultado}")
